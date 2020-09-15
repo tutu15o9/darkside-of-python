@@ -1,0 +1,9 @@
+pynput==1.6.8
+mss==5.1.0
+pywin32==227
+psutil==5.7.0
+pyHook==1.5.1
+cryptography==2.9.2
+requests==2.22.0
+lxml==4.5.0
+PyInstaller==3.6
